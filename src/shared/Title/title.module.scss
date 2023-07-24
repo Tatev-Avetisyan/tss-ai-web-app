@@ -1,0 +1,12 @@
+@import "../../styles/colors.module";
+
+.title {
+  font-size: 1.9rem;
+  font-weight: 600;
+  color: $titleColor;
+  left: 413px;
+  top: 250px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+}
